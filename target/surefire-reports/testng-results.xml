@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Command line suite" duration-ms="2646" started-at="2014-02-24T16:40:38Z" finished-at="2014-02-24T16:40:41Z">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="2646" started-at="2014-02-24T16:40:38Z" finished-at="2014-02-24T16:40:41Z">
+      <class name="abril.test.automated.test.Tests">
+        <test-method status="PASS" signature="Test1()[pri:0, instance:abril.test.automated.test.Tests@3452a22d]" name="Test1" duration-ms="2617" started-at="2014-02-24T13:40:38Z" finished-at="2014-02-24T13:40:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test1 -->
+      </class> <!-- abril.test.automated.test.Tests -->
+    </test> <!-- Command line test -->
+  </suite> <!-- Command line suite -->
+</testng-results>
