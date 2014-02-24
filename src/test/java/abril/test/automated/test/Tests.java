@@ -18,12 +18,12 @@ public class Tests {
 		System.out.println(SeleniumTest.getTitle());
 	}
 	
-//	@Test
-//	public void htmlUnitTest(){
-//	
-//		SeleniumTest.open(url);
-//		SeleniumTest.getAllLinks();
-//	}
+	@Test
+	public void htmlUnitTest(){
+	
+		SeleniumTest.open(url);
+		SeleniumTest.getAllLinks();
+	}
 //
 //	
 //	@Test
