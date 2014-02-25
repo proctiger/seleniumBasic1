@@ -24,12 +24,12 @@ public class TestsHome {
 		SeleniumTest.getAllLinks();
 	}
 
-	
-	@Test
-	public void clickLinkTest(){
-		WebElement link = SeleniumTest.findLinkByText("Investidores");
-		SeleniumTest.clickOnLink(link);
-		System.out.println(SeleniumTest.getTitle());
-	}
+//	
+//	@Test
+//	public void clickLinkTest(){
+//		WebElement link = SeleniumTest.findLinkByText("Investidores");
+//		SeleniumTest.clickOnLink(link);
+//		System.out.println(SeleniumTest.getTitle());
+//	}
 	
 }
